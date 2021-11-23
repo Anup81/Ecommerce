@@ -19,7 +19,7 @@ function Headers() {
                         <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
             <Container fluid>
                 <LinkContainer to="/">
-                    <Navbar.Brand>ProShop</Navbar.Brand>
+                    <Navbar.Brand>AnupShop</Navbar.Brand>
                 </LinkContainer>
                 
                 <Navbar.Toggle aria-controls="navbarScroll" />
